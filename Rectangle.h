@@ -8,12 +8,8 @@ private:
 
 public:
     Rectangle(double l, double w);
-
     double calcArea();
-
     void show();
-
     Figure* Copy();
-
     ~Rectangle();
 };
