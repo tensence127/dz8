@@ -1,4 +1,5 @@
 #include "Circle.h"
+#include "Figure.h"
 
 Circle::Circle(double r)
 {
