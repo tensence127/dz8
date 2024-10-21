@@ -1,3 +1,5 @@
+#include "Figure.h"
+
 class Circle : public Figure
 {
 private:
