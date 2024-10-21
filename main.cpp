@@ -10,13 +10,13 @@ int main()
 {
 
     int choice;
-    Cylinder* c1;
+    Cylinder* c1{};
     double height;
     cout << "Enter height: ";
     cin >> height;
     cout << "1 - circle. 2 - rectangle" << endl;
     cin >> choice;
-    switch(choice)
+    switch (choice)
     {
     case 1:
         double radius;
