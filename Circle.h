@@ -8,11 +8,8 @@ private:
 public:
     Circle(double r);
     double calcArea();
-
     void show();
-
     Figure* Copy();
-
     ~Circle();
 
 };
