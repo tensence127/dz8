@@ -1,6 +1,9 @@
 #include "Circle.h"
 #include "Figure.h"
 #include <math.h>
+#include <iostream>
+
+using namespace std;
 
 Circle::Circle(double r)
 {
