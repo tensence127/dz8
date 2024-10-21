@@ -1,5 +1,8 @@
+#include <iostream>
 #include "Figure.h"
 #include "Rectangle.h"
+
+using namespace std;
 
 Rectangle::Rectangle(double l, double w)
 {
